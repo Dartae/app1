@@ -1,8 +1,8 @@
 import React from 'react'
-import {Calcultor2} from './calculator';
+import { EvenData2 } from './even-data';
 
 function App() {
-  return <Calcultor2/>
+  return <EvenData2/>
 }
 
 export default App;
