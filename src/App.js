@@ -1,8 +1,8 @@
 import React from 'react'
-import { EvenData2 } from './even-data';
+import RefsFunc from './refs-func'
 
 function App() {
-  return <EvenData2/>
+  return <RefsFunc/>
 }
 
 export default App;
