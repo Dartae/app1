@@ -33,7 +33,7 @@ isActive?"active_menu":"menu"}>
     <Route path='/product' Component={Products}/>
     <Route path='/mamber' Component={Member}/>
     <Route path='/contact' element={<div style={{textAlign:'center'}}>Contact Page</div>}/>
-    <Route path='/contact' element={<div style={{textAlign:'center'}}>Error 404 Not Found</div>}/>
+    <Route path='/*' element={<div style={{textAlign:'center'}}>Error 404 Not Found</div>}/>
    </Routes>
    </BrowserRouter> 
   )
