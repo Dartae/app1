@@ -1,10 +1,10 @@
 import React from 'react'
 
-import FormCheck from './form-check';
+import FormValidalidation from './form-validation';
 
 function App() {
   
-  return <FormCheck/>
+  return <FormValidalidation/>
   
 }
 
