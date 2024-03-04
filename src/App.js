@@ -1,10 +1,10 @@
 import React from 'react'
 
-import FormText from './form-text';
+import FormCheck from './form-check';
 
 function App() {
   
-  return <FormText/>
+  return <FormCheck/>
   
 }
 
